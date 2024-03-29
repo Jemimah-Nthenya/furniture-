@@ -1,0 +1,203 @@
+#page{
+    text-align: center;
+}
+#nav{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    color: aliceblue;
+    background-color: black;
+
+}
+#image{
+    min-height: 300px;
+    background-image: url(image/mmm.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border-radius: 3px;
+
+        text-align: center;
+}
+#choose{
+    text-align: center;
+}
+#test{
+    background-color: plum;
+    text-align: center;
+    margin-top: 10%;
+}
+#ending{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+
+}
+#pres{
+    font-size: xx-small;
+}
+#pro{
+    font-size: xx-small;
+}
+#ser{
+    font-size: xx-small;
+}
+#foll{
+    font-size: xx-small;
+
+}
+#blogs{
+    text-align: center;
+    
+}
+#mm{
+    font-size: x-small;
+    text-align: center;
+}
+#hh{
+ text-align: center;   
+}
+#modern{
+    display: flex;
+}
+#dining{
+    font-size: xx-small;
+}
+#bedroom{
+display: flex;
+}
+#mast{
+    font-size:xx-small ;
+}
+.button{
+    font-size: smaller;
+}
+.our{
+    display: flex;
+}#leather{
+    font-size: x-small;
+}
+#nn{
+    text-align: center;
+}
+#our{
+    display: flex;
+    text-align: center;
+}
+#chair{
+    font-size: xx-small;
+}
+#mirr{
+    font-size: x-small;
+}
+#sofa2{
+    font-size: xx-small;
+}
+.mfa{
+    display: flex;
+    font-size: xx-small;text-align: center;
+    justify-content: space-evenly;
+
+}
+#pp{
+    text-align: center;
+}
+@media screen and (min-width:280) and( max-width:500){
+    #page{
+        text-align: center;
+    }
+    #image{
+        background-image: url(image/mmm.png);
+        text-align: center;
+    }
+    #choose{
+        text-align: center;
+    }
+    #test{
+        background-color: plum;
+        text-align: center;
+        margin-top: 10%;
+    }
+    #ending{
+        display: flex;
+        justify-content: space-evenly;
+        text-align: center;
+        background-color: black;
+        color: aliceblue;
+    
+    }
+    #pres{
+        font-size: xx-small;
+    }
+    #pro{
+        font-size: xx-small;
+    }
+    #ser{
+        font-size: xx-small;
+    }
+    #foll{
+        font-size: xx-small;
+    
+    }
+    #blogs{
+        text-align: center;
+        
+    }
+    #mm{
+        font-size: x-small;
+        text-align: center;
+    }
+    #hh{
+     text-align: center;   
+    }
+    #modern{
+        display: flex;
+    }
+    #dining{
+        font-size: xx-small;
+    }
+    #bedroom{
+    display: flex;
+    }
+    #mast{
+        font-size:xx-small ;
+    }
+    .button{
+        font-size: smaller;
+    }
+    .our{
+        display: flex;
+    }#leather{
+        font-size: x-small;
+    }
+    #nn{
+        text-align: center;
+    }
+    #our{
+        display: flex;
+        text-align: center;
+    }
+    #chair{
+        font-size: xx-small;
+    }
+    #mirr{
+        font-size: x-small;
+    }
+    #sofa2{
+        font-size: xx-small;
+    }
+    .mfa{
+        display: flex;
+        font-size: xx-small;text-align: center;
+        justify-content: space-evenly;
+    
+    }
+    #pp{
+        text-align: center;
+    }
+    
+    }
+    
